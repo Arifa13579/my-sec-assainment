@@ -1,0 +1,43 @@
+.color{
+    color:coral ;
+}
+.color-1{
+    color: rgb(44, 44, 77);
+}
+.header-slider{
+    background-color: rgb(253, 216, 222);
+}
+.position{
+    margin-top:2em;
+}
+.nav-logo{
+    width: 50%;
+}
+.logo-shop{
+    width: 20%;
+}
+.main-card{
+    border: 0 !important;
+    border-radius: 1pc !important;
+}
+.main-card-footer{
+    background-color: white !important;
+    border: 0 !important;
+}
+
+.chart-section h4{
+    font-size: 16px;
+}
+
+.chart-section p{
+    font-size: 12px;
+}
+
+.chart-section{
+    margin-bottom: 0%;
+}
+}
+.important-deta{
+    margin-top: 10px;
+}
+font-family: 'Hind Siliguri', sans-serif;
